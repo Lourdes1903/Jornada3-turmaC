@@ -2,12 +2,12 @@
 
 :root{
   --text-color: #ffffff;
-  --card-front-color: #430353;
-  --card-back-color: #09683d;
+  --card-front-color: #177782;
+  --card-back-color: #1c088a;
 }
 
 body {
-  background: url(img/bg-desktop-yellow.webp);
+  background: url(img/bg-desktop-blue.webp);
   font-family: Josefin Sans;
 }
 
